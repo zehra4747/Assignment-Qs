@@ -1,2 +1,2 @@
-let personName:string = "Eric";
-console.log(`hello ${personName} would you  like to learn some python today?`)
+//1st Question
+console.log("Hello, World!!")

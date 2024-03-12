@@ -1,2 +1,2 @@
-var personName = "Eric";
-console.log("hello ".concat(personName, " would you  like to learn some python today?"));
+//1st Question
+console.log("Hello, World!!");
